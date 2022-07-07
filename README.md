@@ -44,13 +44,13 @@ GET http://localhost:8080/api/v1/students
 
 ### Get a list of students
 
-```json
+```
 GET http://localhost:8080/api/v1/students
 ```
 
 ### Post New Student
 
-```json
+```
 POST http://localhost:8080/api/v1/students
 {
         "name": "bob",
