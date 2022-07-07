@@ -36,7 +36,7 @@ This is a full stack web application using Spring
 
 ## HTML Endpoints
 
-```http
+```
 GET http://localhost:8080/api/v1/students
 ```
 
